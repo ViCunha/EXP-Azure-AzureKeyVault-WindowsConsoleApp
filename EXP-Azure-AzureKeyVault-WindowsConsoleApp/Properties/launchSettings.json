@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "EXP-Azure-AzureKeyVault-WindowsConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENV_KEY_VAULT_NAME": "d20250524172302-keyvault",
+        "ENV_KEY_VAULT_SECRET_NAME": "MySecretName"
+      }
+    }
+  }
+}

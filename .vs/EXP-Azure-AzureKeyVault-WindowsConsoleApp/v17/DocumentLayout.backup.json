@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EA9922-0283-4F91-8B33-D500149EAD4F}|EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp.csproj|c:\\users\\user\\source\\repos\\exp-azure-azurekeyvault-windowsconsoleapp\\exp-azure-azurekeyvault-windowsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EA9922-0283-4F91-8B33-D500149EAD4F}|EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp.csproj|solutionrelative:exp-azure-azurekeyvault-windowsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EA9922-0283-4F91-8B33-D500149EAD4F}|EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp.csproj|c:\\users\\user\\source\\repos\\exp-azure-azurekeyvault-windowsconsoleapp\\exp-azure-azurekeyvault-windowsconsoleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4EA9922-0283-4F91-8B33-D500149EAD4F}|EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp.csproj|solutionrelative:exp-azure-azurekeyvault-windowsconsoleapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T23:57:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Program.cs",
+              "RelativeToolTip": "EXP-Azure-AzureKeyVault-WindowsConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:35:24.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
