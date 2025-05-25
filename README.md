@@ -235,16 +235,27 @@ dotnet run
 ```
 
 Publish the workload
-
 - Create the repository
-
 - Publish the code to GitHub
 
+Clean-Up resources
+
+- Remove Azure Resource Group and its resources
+```
+Remove-AzResourceGroup -Name ("{0}-rg" -f $SCRIPT_KEY) -Force  -AsJob
+Get-Job
+Receive-Job -Id 1
+
+---
+
+// Bash # Azure CLI
+az group create --location $LOCATION --name "${SCRIPT_KEY}-rg"
+```
 
 ### Media
 ---
 ![image](https://github.com/user-attachments/assets/7ee349aa-bcc1-4bf5-9c90-92cb42debc7c)
 
-### References
+### Reference
 ---
 - https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net?tabs=azure-powershell
